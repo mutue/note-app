@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="double_entry">Eintrag doppelt</string>
+    <string name="empty_entry">Eintrag leer</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">ok</string>
+    <string name="ask_for_clarity">Sind Sie sich sicher?</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="double_entry">Entry already exists</string>
+    <string name="empty_entry">Entry is empty</string>
+    <string name="delete">delete</string>
+    <string name="saved">Save</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="ask_for_clarity">are you sure?</string>
+</resources>
