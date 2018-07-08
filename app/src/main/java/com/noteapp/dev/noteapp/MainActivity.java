@@ -108,9 +108,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     @Override
-    protected void onDestroy() {
+    protected void onPause() {
+        super.onPause();
         saveData();
-        super.onDestroy();
     }
 
     private void saveData() {
